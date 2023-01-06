@@ -24,4 +24,3 @@ Tapi dalam ritual tersebut, ada pilihan yang harus diperhatikan agar perintah gi
 
 ### Download Git
 Silahkan buka website resminya Git [Instal Git ]( git-scm.com). Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
-![Screenshot (820)](https://user-images.githubusercontent.com/100655325/210124782-66a6b974-3433-4bad-ba30-e04587bcc724.png)
